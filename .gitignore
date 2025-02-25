@@ -1,0 +1,14 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PyInstaller build and dist folders
+build/
+dist/
+*.spec
+
+# Ignore Python virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
